@@ -1,6 +1,5 @@
-# W07 Guestbook Example
-
-A simple guest book using Node, Express, BootStrap, EJS
+# A03 
+A simple website with  guest book using Node, Express, BootStrap, EJS
 
 ## How to use
 
